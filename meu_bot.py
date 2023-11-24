@@ -1,5 +1,4 @@
 import discord
-import openai
 import os
 from datetime import date 
 from datetime import datetime
