@@ -32,3 +32,4 @@ client = MyClient(intents=intents)
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 client.run(TOKEN)
+
